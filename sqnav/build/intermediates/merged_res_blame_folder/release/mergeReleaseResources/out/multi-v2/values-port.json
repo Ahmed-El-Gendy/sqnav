@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sagendy.sqnav-mergeReleaseResources-30:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JZ Original\\.gradle\\caches\\8.13\\transforms\\14ee8f6e68a3806b00f4ee28b36e118d\\transformed\\appcompat-1.7.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sagendy.sqnav-release-32:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JZ Original\\.gradle\\caches\\8.13\\transforms\\14ee8f6e68a3806b00f4ee28b36e118d\\transformed\\appcompat-1.7.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+#Sun Aug 30 00:24:10 EEST 2026
+base.0=M\:\\Program Files\\Android\\AndroidStudioProjects\\Work\\UrSeries\\sqnav\\sample\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=M\:\\Program Files\\Android\\AndroidStudioProjects\\Work\\UrSeries\\sqnav\\sample\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

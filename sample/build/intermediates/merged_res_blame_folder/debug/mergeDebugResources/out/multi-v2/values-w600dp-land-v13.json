@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sagendy.sqnav.sample-mergeDebugResources-34:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JZ Original\\.gradle\\caches\\8.13\\transforms\\bf8d4f5cf09eebb8358b4335547939dc\\transformed\\material-1.13.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

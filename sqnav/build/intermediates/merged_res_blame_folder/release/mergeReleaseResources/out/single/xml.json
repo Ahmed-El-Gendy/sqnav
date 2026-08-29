@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.sagendy.sqnav-release-32:/xml/m3_split_button_inner_corner_size_state_list.xml",
+        "source": "com.sagendy.sqnav-material-1.13.0-20:/xml/m3_split_button_inner_corner_size_state_list.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav-release-32:/xml/m3_button_group_child_size_change.xml",
+        "source": "com.sagendy.sqnav-material-1.13.0-20:/xml/m3_button_group_child_size_change.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav-release-32:/xml/m3expressive_button_shape_state_list.xml",
+        "source": "com.sagendy.sqnav-material-1.13.0-20:/xml/m3expressive_button_shape_state_list.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav-release-32:/xml/m3expressive_connected_buttons_inner_corner_size_state_list.xml",
+        "source": "com.sagendy.sqnav-material-1.13.0-20:/xml/m3expressive_connected_buttons_inner_corner_size_state_list.xml"
+    }
+]

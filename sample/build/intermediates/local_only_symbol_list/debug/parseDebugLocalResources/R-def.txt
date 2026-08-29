@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_downloads
+drawable ic_home
+drawable ic_profile
+drawable ic_search
+id sqnav
+id tv_selected_tab
+id tv_title
+layout activity_main
+style Theme.SqNavSample

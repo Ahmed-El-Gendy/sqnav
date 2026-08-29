@@ -1,0 +1,15 @@
+-- Merging decision tree log ---
+manifest
+ADDED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml:2:1-3:12
+INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml:2:1-3:12
+	package
+		ADDED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml:2:11-38
+		INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml
+INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sqnav\src\main\AndroidManifest.xml

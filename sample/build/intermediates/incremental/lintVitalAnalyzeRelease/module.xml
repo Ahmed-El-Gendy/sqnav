@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="M:\Program Files\Android\AndroidStudioProjects\Work\UrSeries\sqnav\sample"
+    name=":sample"
+    type="APP"
+    maven="sqnav:sample:unspecified"
+    agpVersion="8.13.2"
+    buildFolder="build"
+    bootClassPath="M:\Program Files\Android\SDK\platforms\android-36\android.jar;M:\Program Files\Android\SDK\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SqNav">
+        <attr name="sq_backgroundColor" format="color" />
+        <attr name="sq_backgroundRadius" format="dimension" />
+        <attr name="sq_cardColor" format="color" />
+        <attr name="sq_cardStrokeColor" format="color" />
+        <attr name="sq_cardRadius" format="dimension" />
+        <attr name="sq_cardSize" format="dimension" />
+        <attr name="sq_selectedColor" format="color" />
+        <attr name="sq_unselectedColor" format="color" />
+        <attr name="sq_glowDotColor" format="color" />
+        <attr name="sq_showGlowDot" format="boolean" />
+    </declare-styleable>
+</resources>

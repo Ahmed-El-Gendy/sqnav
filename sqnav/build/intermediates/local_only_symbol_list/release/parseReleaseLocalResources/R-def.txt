@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+attr? sq_backgroundColor
+attr? sq_backgroundRadius
+attr? sq_cardColor
+attr? sq_cardRadius
+attr? sq_cardSize
+attr? sq_cardStrokeColor
+attr? sq_glowDotColor
+attr? sq_selectedColor
+attr? sq_showGlowDot
+attr? sq_unselectedColor
+drawable sq_bg_bar
+drawable sq_bg_card
+drawable sq_bg_neon_dot
+styleable SqNav sq_backgroundColor sq_backgroundRadius sq_cardColor sq_cardStrokeColor sq_cardRadius sq_cardSize sq_selectedColor sq_unselectedColor sq_glowDotColor sq_showGlowDot

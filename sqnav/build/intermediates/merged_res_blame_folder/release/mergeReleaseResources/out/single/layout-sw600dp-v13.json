@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.sagendy.sqnav-release-32:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.sagendy.sqnav-material-1.13.0-20:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav-release-32:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.sagendy.sqnav-material-1.13.0-20:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

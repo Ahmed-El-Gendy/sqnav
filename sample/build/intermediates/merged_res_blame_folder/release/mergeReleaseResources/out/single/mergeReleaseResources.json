@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.sagendy.sqnav.sample-release-36:/layout_activity_main.xml.flat",
+        "source": "com.sagendy.sqnav.sample-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav.sample-release-36:/drawable_ic_profile.xml.flat",
+        "source": "com.sagendy.sqnav.sample-main-37:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav.sample-release-36:/drawable_ic_search.xml.flat",
+        "source": "com.sagendy.sqnav.sample-main-37:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav.sample-release-36:/drawable_ic_home.xml.flat",
+        "source": "com.sagendy.sqnav.sample-main-37:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.sagendy.sqnav.sample-release-36:/drawable_ic_downloads.xml.flat",
+        "source": "com.sagendy.sqnav.sample-main-37:/drawable/ic_downloads.xml"
+    }
+]
